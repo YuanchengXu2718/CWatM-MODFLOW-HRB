@@ -165,7 +165,7 @@ def parse_configuration(settingsFileName):
 
 
 def read_metanetcdf(metaxml, name):
-    print('\n--in read_metanetcdf: metaxml = ', metaxml)
+    # print('\n--in read_metanetcdf: metaxml = ', metaxml)
     """
     Read the metadata for netcdf output files
     unit, long name, standard name and additional information

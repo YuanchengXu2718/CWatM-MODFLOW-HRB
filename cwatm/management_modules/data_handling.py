@@ -232,7 +232,7 @@ def loadsetclone(self,name):
     maskinfo['shape']=mask.shape
     maskinfo['maskflat']=mask.ravel()    # map to 1D not compresses
     maskinfo['shapeflat']=maskinfo['maskflat'].shape   #length of the 1D array
-    print('--------------------in data_handling loadsetclone, mapC.shape = ', mapC.shape)
+    # print('--------------------in data_handling loadsetclone, mapC.shape = ', mapC.shape)
     maskinfo['mapC']=mapC.shape                        # length of the compressed 1D array
     maskinfo['maskall'] =np.ma.masked_all(maskinfo['shapeflat'])  # empty map 1D but with mask
     maskinfo['maskall'].mask = maskinfo['maskflat']

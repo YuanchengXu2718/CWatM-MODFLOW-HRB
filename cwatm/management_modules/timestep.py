@@ -304,7 +304,7 @@ def checkifDate(start,end,spinup,name):
         dateVar['unitConv'] = unitconv2[unitconv1.index(unitconv3)]
     except:
         dateVar['unitConv'] = 1
-    print('dateVar[unit] = ', dateVar['unit'])
+    # print('dateVar[unit] = ', dateVar['unit'])
 
     startdate = Calendar(ctbinding('StepStart'))
     if type(startdate) is datetime.datetime:
