@@ -1,0 +1,8 @@
+timeseries  settingsfile: E:\CWatM24\Saq-NCP\settings\settings_55_HRB_5min.ini date: Sat May 18 10:39:43 2024 CWATM: E:\CWatM24\Saq-NCP\cwatm\run_cwatm.py, 2024/05/18 10:37
+3
+timestep
+1
+2
+        1    0.000366649    0.000184231
+        2    0.000484031    4.37032e-05
+        3    0.000318485    5.74957e-06

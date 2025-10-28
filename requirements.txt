@@ -1,0 +1,12 @@
+flopy==3.3.5
+GDAL @ file:///C:/Users/smilovic/Downloads/GDAL-3.4.3-cp311-cp311-win_amd64.whl
+netCDF4==1.6.1
+numpy==1.23.4
+openpyxl==3.0.10
+pandas==1.5.1
+rasterio @ file:///C:/Users/smilovic/Downloads/rasterio-1.2.10-cp311-cp311-win_amd64.whl
+scipy==1.9.3
+xlrd==1.2.0
+xmipy==1.0.0
+
+Python 3.8

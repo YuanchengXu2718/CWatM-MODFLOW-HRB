@@ -1,0 +1,33 @@
+                                   MODFLOW 6
+                U.S. GEOLOGICAL SURVEY MODULAR HYDROLOGIC MODEL
+                            VERSION 6.2.2 07/30/2021
+
+   MODFLOW 6 compiled Jul 31 2021 14:59:11 with IFORT compiler (ver. 20.21.2)
+
+This software has been approved for release by the U.S. Geological 
+Survey (USGS). Although the software has been subjected to rigorous 
+review, the USGS reserves the right to update the software as needed 
+pursuant to further analysis and review. No warranty, expressed or 
+implied, is made by the USGS or the U.S. Government as to the 
+functionality of the software and related material nor shall the 
+fact of release constitute any such warranty. Furthermore, the 
+software is released on condition that neither the USGS nor the U.S. 
+Government shall be held liable for any damages resulting from its 
+authorized or unauthorized use. Also refer to the USGS Water 
+Resources Software User Rights Notice for complete use, copyright, 
+and distribution information.
+
+ 
+ Run start date and time (yyyy/mm/dd hh:mm:ss): 2023/11/14 11:21:59
+ 
+ Writing simulation list file: mfsim.lst
+
+ERROR REPORT:
+
+  1.       SPECIFIED FILE STATUS: OLD
+  2.       SPECIFIED FILE FORMAT: FORMATTED
+  3.       SPECIFIED FILE ACCESS: SEQUENTIAL
+  4.       SPECIFIED FILE ACTION: READ
+  5.         IOSTAT ERROR NUMBER: 29
+  6.  -- STOP EXECUTION (openfile)
+

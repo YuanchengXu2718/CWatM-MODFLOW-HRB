@@ -1,0 +1,56 @@
+                                   MODFLOW 6
+                U.S. GEOLOGICAL SURVEY MODULAR HYDROLOGIC MODEL
+                            VERSION 6.2.2 07/30/2021
+
+   MODFLOW 6 compiled Jul 31 2021 14:59:11 with IFORT compiler (ver. 20.21.2)
+
+This software has been approved for release by the U.S. Geological 
+Survey (USGS). Although the software has been subjected to rigorous 
+review, the USGS reserves the right to update the software as needed 
+pursuant to further analysis and review. No warranty, expressed or 
+implied, is made by the USGS or the U.S. Government as to the 
+functionality of the software and related material nor shall the 
+fact of release constitute any such warranty. Furthermore, the 
+software is released on condition that neither the USGS nor the U.S. 
+Government shall be held liable for any damages resulting from its 
+authorized or unauthorized use. Also refer to the USGS Water 
+Resources Software User Rights Notice for complete use, copyright, 
+and distribution information.
+
+
+System command used to initiate simulation:
+c:\Users\xuyua\AppData\Local\Programs\Python\Python310\python.exe -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 "--Session.signature_scheme=\"hmac-sha256\"" "--Session.key=b\"75c2b352-1e0b-4da4-8c29-b8d7fb1842f2\"" --shell=9002 "--transport=\"tcp\"" --iopub=9004 --f=c:\Users\xuyua\AppData\Roaming\jupyter\runtime\kernel-v2-19680MZvgMOmnpa3n.json
+
+MODFLOW was compiled using uniform precision.
+
+Real Variables
+  KIND: 8
+  TINY (smallest non-zero value):    2.225074-308
+  HUGE (largest value):    1.797693+308
+  PRECISION: 15
+  BIT SIZE: 64
+
+Integer Variables
+  KIND: 4
+  HUGE (largest value): 2147483647
+  BIT SIZE: 32
+
+Long Integer Variables
+  KIND: 8
+  HUGE (largest value): 9223372036854775807
+  BIT SIZE: 64
+
+Logical Variables
+  KIND: 4
+  BIT SIZE: 32
+ 
+
+ERROR REPORT:
+
+  1.       SPECIFIED FILE STATUS: OLD
+  2.       SPECIFIED FILE FORMAT: FORMATTED
+  3.       SPECIFIED FILE ACCESS: SEQUENTIAL
+  4.       SPECIFIED FILE ACTION: READ
+  5.         IOSTAT ERROR NUMBER: 29
+  6.  -- STOP EXECUTION (openfile)
+
